@@ -2,7 +2,7 @@
 ![ClickLLC](https://merchant.click.uz/assets/images/logo.png)
 
 
-__https://t.me/Bekhzodjon___
+__https://t.me/Bekhzodjon__
 
 ### Kodni o'rnatish bo'yicha qo`llanma
 1) MYSQL tablitsa yaratib olamiz
