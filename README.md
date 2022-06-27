@@ -1,5 +1,5 @@
 # CLICKUZ SHOP API | @BEKHZODJON
-![ClickLLC]([https://merchant.click.uz/assets/images/logo.png])
+![ClickLLC](https://merchant.click.uz/assets/images/logo.png)
 
 
 __https://t.me/Bekhzodjon___
