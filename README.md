@@ -1,5 +1,7 @@
 # CLICKUZ SHOP API | @BEKHZODJON
-![ClickLLC]([https://click.uz/click/images/logo.svg](https://merchant.click.uz/assets/images/logo.png))
+![ClickLLC]([https://merchant.click.uz/assets/images/logo.png])
+
+
 __https://t.me/Bekhzodjon___
 
 ### Kodni o'rnatish bo'yicha qo`llanma
@@ -20,4 +22,4 @@ PRIMARY KEY (id)) ENGINE = InnoDB;
 
 ### AGAR KOD ISHLAMASA DEMAK XATO QILGANSIZ
 
-####Mualliflik huquqi mavjud!
+#### Mualliflik huquqi mavjud!
