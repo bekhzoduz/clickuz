@@ -7,7 +7,7 @@
  */
 date_default_timezone_set('Asia/Samarkand');
 $timedate = strtotime(date('H:i:s'));
-$db = new mysqli('localhost', 'bekzod', 'Bekzod@2003', 'bekzod');
+$db = new mysqli('localhost', 'bekzod', '12345', 'bekzod');
 
 $keys = ['key' => 'fortest', 'prepare' => 'fortest'];
 
