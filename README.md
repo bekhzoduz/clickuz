@@ -1,2 +1,2 @@
-# clickuz
-click.uz merchant api php
+# CLICKUZ MERCHANT API | @BEKHZODJON
+# QO`LLANMA
